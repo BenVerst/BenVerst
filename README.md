@@ -18,7 +18,7 @@
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- Masters of Environmental Data Sciece student at UCSB
+- Masters of Environmental Data Science student at UCSB
 
 ![Ben's github stats](https://github-readme-stats.vercel.app/api?username=BenVerst&show_icons=true&theme=dracula&hide=stars,issues)
 
